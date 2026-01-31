@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "skills": {
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1769692065786
+    },
+    "marketing-mode": {
+      "version": "1.0.0",
+      "installedAt": 1769692068307
+    },
+    "tweet-writer": {
+      "version": "1.0.0",
+      "installedAt": 1769692070695
+    },
+    "deep-research": {
+      "version": "1.0.1",
+      "installedAt": 1769692073115
+    },
+    "create-content": {
+      "version": "1.0.0",
+      "installedAt": 1769692075635
+    },
+    "last30days-lite": {
+      "version": "1.0.0",
+      "installedAt": 1769692078133
+    },
+    "byterover": {
+      "version": "1.2.2",
+      "installedAt": 1769692080186
+    },
+    "proactive-agent": {
+      "version": "1.2.4",
+      "installedAt": 1769692082626
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1769692084712
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1769692086624
+    },
+    "bird": {
+      "version": "1.0.0",
+      "installedAt": 1769692088634
+    },
+    "clawdhub": {
+      "version": "1.0.0",
+      "installedAt": 1769692090434
+    },
+    "brave-search": {
+      "version": "1.0.1",
+      "installedAt": 1769692093164
+    },
+    "reddit-read-only": {
+      "version": "1.0.0",
+      "installedAt": 1769692095335
+    },
+    "superdesign": {
+      "version": "1.0.0",
+      "installedAt": 1769692210286
+    },
+    "clawddocs": {
+      "version": "1.2.2",
+      "installedAt": 1769692243973
+    },
+    "second-brain": {
+      "version": "0.1.4",
+      "installedAt": 1769692245914
+    },
+    "self-improving-agent": {
+      "version": "1.0.2",
+      "installedAt": 1769692267030
+    },
+    "reddit-scraper": {
+      "version": "1.0.0",
+      "installedAt": 1769692286144
+    },
+    "search-x": {
+      "version": "1.0.0",
+      "installedAt": 1769692288477
+    }
+  }
+}

@@ -1,0 +1,4 @@
+- [Hardware] David is contemplating a Mac Mini for local operations.
+- [Storage] Decision: External expansion is a viable path if internal 256GB hits limits.
+- [Local AI] Stable Diffusion is a possibility; local LLMs are NOT currently planned.
+- [Optimization] Images will be treated as ephemeral assets (pushed to Notion/Cloud) to keep the local footprint lean.
